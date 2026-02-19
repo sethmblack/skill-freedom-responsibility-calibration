@@ -3,8 +3,8 @@ name: freedom-responsibility-calibration
 description: Diagnose whether an organization or team has the right balance of freedom and structure given their current talent density, and recommend calibration adjustments.
 license: MIT
 metadata:
+  version: 1.0.4061
   author: sethmblack
-  version: 1.0.4060
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - freedom-and-responsibility-calibration
